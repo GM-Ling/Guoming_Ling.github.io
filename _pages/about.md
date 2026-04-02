@@ -9,9 +9,6 @@ redirect_from:
 
 Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and discontinuous Galerkin methods.
 
-#Example: editing a Markdown file for a talk
-#![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-#For more info
-#------
-#More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+![Global Tsunami Simulation](/images/global_tsunami.gif)
+
