@@ -14,6 +14,6 @@ International Conferences
 </h2>
 
 <u>[IC001]</u>. **"A ghost element coupler for fluid-structure interaction."**  
-**APCOM-ACCM 2025**, Brisbane, Australia, 2025.12.8. **[https://www.apcom2025.org/](https://www.apcom2025.org/)** (more than 700 participants) 
+**APCOM-ACCM 2025**, Brisbane, Australia, 2025.12.8. **[https://www.apcom2025.org/](https://www.apcom2025.org/)** (> 700 participants) 
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Mitsuteru Asai and Kenjiro Terada.  
 🔑<u>Keywords</u>: Fluid-Structure Interaction.
