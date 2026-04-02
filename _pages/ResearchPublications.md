@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-**[Peer-reviewed Journal Articles (PJ)](#pj)** &nbsp; &nbsp; **[Preprint (pr)](#pr)** &nbsp; &nbsp; **[Google Scholar (Up to date)](https://scholar.google.com/citations?user=KxtAy7wAAAAJ&hl=ja)**
+**[Peer-reviewed Journal Articles (PJ)](#pj)** &nbsp; &nbsp; **[Preprint (PR)](#pr)** &nbsp; &nbsp; **[Google Scholar (Up to date)](https://scholar.google.com/citations?user=KxtAy7wAAAAJ&hl=ja)**
 
 
 <h2 id="pj">
