@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and discontinuous Galerkin methods.
+Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and riverbed evolution using discontinuous Galerkin methods.
 
 **Fluid-Structure Interaction simulation:**
 
