@@ -11,9 +11,9 @@ author_profile: true
 Education
 </h2>
 
-- 2015.4-2018.3: Ph.D., Civil and Environmental Engineering, Chuo University, Japan  
-- 2013.4-2015.3: M.Eng., Civil and Environmental Engineering, Chuo University, Japan  
-- 2008.9-2012.6: B.Eng., Civil Engineering, Sichuan Unversity, China
+- 2015.4-2018.3: Ph.D. in Engineering, Civil and Environmental Engineering, Chuo University, Japan  
+- 2013.4-2015.3: Master of Engineering, Civil and Environmental Engineering, Chuo University, Japan  
+- 2008.9-2012.6: Bachelor of Engineering, Civil Engineering, Sichuan Unversity, China
 
 <h2 id="pe">
 Professional Experience
