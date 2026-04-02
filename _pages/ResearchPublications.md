@@ -14,7 +14,7 @@ Peer-reviewed Journal Articles
 </h2>
 
 <u>[PJ010]</u>. **"A depth-averaged quasi-two-phase morphodynamic model using a discontinuous Galerkin method with an orthogonal bubble function."**  
-**Water Resources Research**, in review.  
+**Water Resources Research**, in review{: style="color: red"}.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai*,	Damrongsak Wirasaet and Joannes Westerink.  
 🔑<u>Keywords</u>: Discontinuous Galerkin method, Shallow water equations, Exner equation, Riverbed evolution, Secondary flow modeling, No-normal flow boundary condition.
 
