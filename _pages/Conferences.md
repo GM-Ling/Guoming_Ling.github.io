@@ -27,7 +27,7 @@ International Conferences
 Domestic Conferences
 </h2>
 
-<u>[DC003]</u>. **"Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source　Model Comparison and Accuracy Assessment."**  
+<u>[DC003]</u>. **"Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment."**  
 **第31回計算工学講演会**, ウインクあいち（名古屋市）, Japan, 2026.6.3. **[https://www.jsces.org/koenkai/31/](https://www.jsces.org/koenkai/31/)**  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Joannes Westerink, Mitsuteru Asai.  
 🔑<u>Keywords</u>: ADCIRC, Finite Element Method, Global tsunami simulation, 2011 Tohoku tsunami, Source-model comparison.
