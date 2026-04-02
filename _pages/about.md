@@ -11,6 +11,8 @@ Researcher in computational mechanics, with interests in tsunami simulation, coa
 
 **1.** **Fluid-Structure Interaction simulation:** [**[RG001](https://gm-ling.github.io/Research%20Projects/)**], [**[PJ009](https://gm-ling.github.io/Research%20Publications)**]. 
 
+Ling, G., Asai, M. & Terada, K. FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid–gas–solid three phase simulation. Comput Mech (2025).
+
 ![FSI simulation](/images/phi1s.gif)
 
 **2.** **Global Tsunami Simulation:** [**[DC003](https://gm-ling.github.io/Conferences)**]. 
