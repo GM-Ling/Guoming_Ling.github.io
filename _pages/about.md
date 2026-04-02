@@ -10,5 +10,5 @@ redirect_from:
 Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and discontinuous Galerkin methods.
 
 
-![Global Tsunami Simulation](https://github.com/GM-Ling/GM-Ling.github.io/tree/master/images/global_tsunami.gif)
+![image](https://github.com/GM-Ling/GM-Ling.github.io/tree/master/images/global_tsunami.gif)
 
