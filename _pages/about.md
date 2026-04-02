@@ -10,5 +10,5 @@ redirect_from:
 Researcher in computational mechanics, with interests in tsunami simulation, coastal hydrodynamics, fluid-structure interaction, and discontinuous Galerkin methods.
 
 
-![image](https://github.com/GM-Ling/GM-Ling.github.io/tree/master/images/maxele_satake_delayed_hotstart.png)
+![image](https://GM-Ling.github.io/images/maxele_satake_delayed_hotstart.png)
 
