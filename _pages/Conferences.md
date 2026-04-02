@@ -14,7 +14,7 @@ International Conferences
 </h2>
 
 <u>[IC003]</u>. **"A Discontinuous Galerkin Morphodynamic Model with Orthogonal Bubble Function Boundary Treatment for River Flows."**  
-**WCCM–ECCOMAS 2026**, Munich, Germany, 2026.7.19-24. **[https://wccm-eccomas2026.org/](https://wccm-eccomas2026.org/)**  
+**WCCM–ECCOMAS 2026**, Munich, Germany, 2026.7.19-24. **[https://wccm-eccomas2026.org/](https://wccm-eccomas2026.org/)**, <span style="color: red;"><strong>Coming soon</strong></span>.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai, Akimitsu Shiraishi and Yuki Takase.  
 🔑<u>Keywords</u>: Fluid-Structure Interaction.
 
@@ -33,7 +33,7 @@ Domestic Conferences
 </h2>
 
 <u>[DC003]</u>. **"Global Tsunami Simulation of the 2011 Tohoku Event with ADCIRC: Source Model Comparison and Accuracy Assessment."**  
-**第31回計算工学講演会**, ウインクあいち（名古屋市）, Japan, 2026.6.3. **[https://www.jsces.org/koenkai/31/](https://www.jsces.org/koenkai/31/)**  
+**第31回計算工学講演会**, ウインクあいち（名古屋市）, Japan, 2026.6.3. **[https://www.jsces.org/koenkai/31/](https://www.jsces.org/koenkai/31/)**, <span style="color: red;"><strong>Coming soon</strong></span>.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Joannes Westerink, Mitsuteru Asai.  
 🔑<u>Keywords</u>: ADCIRC, Finite Element Method, Global tsunami simulation, 2011 Tohoku tsunami, Source-model comparison.
 
