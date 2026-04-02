@@ -71,5 +71,5 @@ Preprint
 <u>[PR001]</u>. **"Development and validation of an Alaskan coupled storm surge, tide, wind wave, and sea ice forecasting system."**  
 **Earth ArXiv**, 2023.6.16. **[https://doi.org/10.31223/X5837K](https://doi.org/10.31223/X5837K)**  
 👤<u>Authors</u>: **<u>Guoming Ling*</u>**, Damrongsak Wirasaet, Joannes Westerink, Maria Teresa Contreras Vargas, Mindo Choi, William Pringle, Coleman Blakely, David Richter, Ali Abdolali, Andre van der Westhuysen, Kyle Steffen, Clint Dawson, Ayumi Fujisaki-Manome, Jia Wang, Edward Myers, Saeed Moghimi, Carol Janzen, Rob Bochenek and Jesse Lopez.  
-🔑<u>Keywords</u>: Time series forecasting, Mamba, Nonlinear dependencies, Embedding channel attention, Maclaurin.
+🔑<u>Keywords</u>: Storm surge, sea ice, Wind wave, Forecasting system, Tide.
 
