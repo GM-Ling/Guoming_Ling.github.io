@@ -13,6 +13,11 @@ author_profile: true
 International Conferences
 </h2>
 
+<u>[IC002]</u>. **"A Discontinuous Galerkin Morphodynamic Model with Orthogonal Bubble Function Boundary Treatment for River Flows."**  
+**WCCM–ECCOMAS 2026**, Munich, Germany, 2026.7.19-24. **[https://wccm-eccomas2026.org/](https://wccm-eccomas2026.org/)**  
+👤<u>Authors</u>: **<u>Guoming Ling</u>**, Reo Matsumoto, Seizo Tanaka, Mitsuteru Asai, Akimitsu Shiraishi and Yuki Takase.  
+🔑<u>Keywords</u>: Fluid-Structure Interaction.
+
 <u>[IC002]</u>. **"A ghost element coupler for fluid-structure interaction."**  
 **APCOM-ACCM 2025**, Brisbane, Australia, 2025.12.8. **[https://www.apcom2025.org/](https://www.apcom2025.org/)**  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Mitsuteru Asai and Kenjiro Terada.  
