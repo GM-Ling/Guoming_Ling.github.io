@@ -13,9 +13,12 @@ author_profile: true
 International Conferences
 </h2>
 
-<u>[IC001]</u>. **"A ghost element coupler for fluid-structure interaction."**  
+<u>[IC002]</u>. **"A ghost element coupler for fluid-structure interaction."**  
 **APCOM-ACCM 2025**, Brisbane, Australia, 2025.12.8. **[https://www.apcom2025.org/](https://www.apcom2025.org/)**  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Mitsuteru Asai and Kenjiro Terada.  
 🔑<u>Keywords</u>: Fluid-Structure Interaction.
 
-
+<u>[IC001]</u>. **"Development of a fluid-structure interaction model based on the finite cover method and the finite element method."**  
+**COMPSAFE2025**, Kobe, Japan, 2025.7.4. **[https://www.compsafe2025.org](https://www.compsafe2025.org)**  
+👤<u>Authors</u>: **<u>Guoming Ling</u>**, Mitsuteru Asai and Kenjiro Terada.  
+🔑<u>Keywords</u>: Fluid-Structure Interaction.
