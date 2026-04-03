@@ -109,12 +109,12 @@ Domestic Conferences
 
 <u>[DC008]</u>. **"Discontinuous Galerkin法による浅水長波流れ解析に関する検討."**  
 **平成28年度全国大会第71回年次学術講演会**, 東北大学 川内北キャンパス, Japan, Ⅱ-097, 2016.9.9. **[https://committees.jsce.or.jp/zenkoku/node/113](https://committees.jsce.or.jp/zenkoku/node/113)**   
-👤<u>Authors</u>: **<u>凌国明</u>**, 樫山和男. 
+👤<u>Authors</u>: **<u>凌国明</u>**, 樫山和男.  
 🔑<u>Keywords</u>: Discontinuous Galerkin法, 浅水長波流れ.
 
 <u>[DC007]</u>. **"任意格子を用いた2次元・3次元ハイブリッド津波解析モデルの構築."**  
 **第21回計算工学講演会**, 朱鷺メッセ：新潟コンベンションセンター, Japan, OS3-2, C-6-1, 2016.6.1. **[https://www.jsces.org/koenkai/21/](https://www.jsces.org/koenkai/21/)**   
-👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男. 
+👤<u>Authors</u>: **<u>凌国明</u>**, 松本純一, 樫山和男.  
 🔑<u>Keywords</u>: オーバーラッピング手法.
 
 <u>[DC006]</u>. **"任意格子に基づくオーバーラッピング手法を用いた2次元・3次元ハイブリッド津波解析手法."**  
