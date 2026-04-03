@@ -29,22 +29,22 @@ International Conferences
 🔑<u>Keywords</u>: Fluid-Structure Interaction.
 
 <u>[IC009]</u>. **"Investigation of Surface Drag Parameterization Considering Sea Ice in Storm Surge Modeling of Western Alaska Using ADCIRC."**  
-**Virtual 2020 ADCIRC Week**, Online, 2020.3. 
+**Virtual 2020 ADCIRC Week**, Online, 2020.3.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Joannes J. Westerink, David H. Richter, William J. Pringle, Maria Teresa Contreras Vargas, Mindo Choi, Brian R. Joyce, Kyle R. Steffen, Clint Dawson, Ayumi Fujisaki-Manome, Edward Myers, Saeed Moghimi, Sergey Vinogradov, Andre van der Westhuysen, Ali Abdolali and Robert Grumbine.  
 🔑<u>Keywords</u>: Storm surge model, Sea ice.
 
 <u>[IC008]</u>. **"Studies on Parameterizations of Sea Ice Effect in a Storm Surge Model for Western Alaska."**  
-**100th AMS Annual Meeting**, Boston, USA, 2020.1. 
+**100th AMS Annual Meeting**, Boston, USA, 2020.1.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Damrongsak Wirasaet, Joannes J. Westerink, David H. Richter, Brian R. Joyce, William J. Pringle, Maria Teresa Contreras Vargas, Kyle R. Steffen, Clint Dawson, Ayumi Fujisaki-Manome, Edward Myers, Saeed Moghimi, Sergey Vinogradov, Andre van der Westhuysen, Ali Abdolali and Robert Grumbine.  
 🔑<u>Keywords</u>: Storm surge model, Sea ice.
 
 <u>[IC007]</u>. **"Development of a Fluid-structure Interaction Model Considering Structural Damage Based on FEM."**  
-**FEF2019**, Chicago, USA, 2019.4. 
+**FEF2019**, Chicago, USA, 2019.4.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Mao Kurumatani, Junichi Matsumoto and Kazuo Kashiyama.  
 🔑<u>Keywords</u>: 2D-3D hybrid model, Fluid-Structure Interaction.
 
 <u>[IC006]</u>. **"Improvement and application of the large-scale 2D-3D hybrid tsunami numerical model."**  
-**WCCM2018**, New York City, USA, 2018.7. 
+**WCCM2018**, New York City, USA, 2018.7.  
 👤<u>Authors</u>: **<u>Guoming Ling</u>**, Junichi Matsumoto and Kazuo Kashiyama.  
 🔑<u>Keywords</u>: 2D-3D hybrid model.
 
