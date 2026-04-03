@@ -12,6 +12,9 @@ Researcher in computational mechanics, with interests in tsunami simulation, coa
 **1.** **2D-3D Hybrid model + FSI:**
 
 ![FSI simulation](/images/2d3d.mp4)
+<video width="900" controls autoplay loop muted playsinline>
+  <source src="{{ '/images/2d3d.mp4' | relative_url }}" type="video/mp4">
+</video>
 
 **2.** **Fluid-Structure Interaction simulation:** [**[RG001](https://gm-ling.github.io/Research%20Projects/)**], [**[PJ009](https://gm-ling.github.io/Research%20Publications)**]. 
 
