@@ -11,6 +11,8 @@ Researcher in computational mechanics, with interests in tsunami simulation, coa
 
 **1.** **2D-3D Hybrid model + FSI:**
 
+![FSI simulation](/images/2d3d.mp4)
+
 **2.** **Fluid-Structure Interaction simulation:** [**[RG001](https://gm-ling.github.io/Research%20Projects/)**], [**[PJ009](https://gm-ling.github.io/Research%20Publications)**]. 
 
 Guoming Ling, Mitsuteru Asai and Kenjiro Terada, FCM-FEM hybrid scheme equipped with a ghost element coupler for liquid–gas–solid three phase simulation. 	Computational Mechanics (2025).
